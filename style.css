@@ -76,19 +76,19 @@ html, body {
   margin-bottom: 1rem;
 }
 
-.fa-code {
+.paw {
   color: #0d5d9e;
 }
 
-.fa-bold {
-  color: #1f4768;
+.paw2 {
+  color: #0f2435;
 }
 
-.fa-css3 {
-  color: #2163af;
+.paw3 {
+  color: #cad9eb;
 }
 
-.fa-code, .fa-bold, .fa-css3 {
+.fa-paw, .fa-bold, .fa-css3 {
   font-size: 4em;
   margin: 1rem;
 }
